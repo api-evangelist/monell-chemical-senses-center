@@ -1,0 +1,79 @@
+aid: monell-chemical-senses-center
+name: Monell Chemical Senses Center
+description: >-
+  The Monell Chemical Senses Center is "the world's only independent, non-profit
+  scientific institute dedicated to interdisciplinary basic research on the
+  senses of taste and smell." Founded in 1968 and headquartered in Philadelphia,
+  Monell conducts chemosensory research organized around three strategic themes:
+  Healthy Senses and Happy Lives, Senses for a Thriving Planet, and Nourishing
+  Our Future. The center runs postdoctoral training, the Dr. Charis Eng Monell
+  Science Apprenticeship Program, the Monell Science Entrepreneurship Program,
+  an Academic Partnership Program, and the Monell Insiders corporate partnership
+  program. Monell does not publish a public developer API surface; its "product"
+  is knowledge disseminated through scholarly publications and conferences.
+type: Index
+position: Producer
+access: 1st-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://monell.org/
+tags:
+  - Chemosensory Science
+  - Nonprofit
+  - Nutrition
+  - Olfaction
+  - Research Institute
+  - Smell
+  - Taste
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    name: Monell Website
+    url: https://monell.org/
+  - type: About
+    name: About Monell
+    url: https://monell.org/about/
+  - type: Research
+    name: Research Themes
+    url: https://monell.org/research/
+  - type: Publications
+    name: Scientific Publications
+    description: >-
+      Chronological listing of Monell scientific publications with a downloadable
+      1969-2019 compilation PDF; individual entries link out to PubMed.
+    url: https://monell.org/publications/
+  - type: Blog
+    name: Monell Blog
+    url: https://monell.org/blog/
+  - type: PressReleases
+    name: Press Releases
+    url: https://monell.org/press-releases/
+  - type: Newsletter
+    name: Monell Newsletter
+    url: https://monell.org/get-updates/
+  - type: GitHubOrganization
+    name: Monell GitHub
+    description: >-
+      Single public repository (RClubWebsite) for an internal R user group; no
+      developer SDKs or API code published.
+    url: https://github.com/Monell
+  - type: LinkedIn
+    name: LinkedIn
+    url: https://www.linkedin.com/company/monell-chemical-senses-center/
+  - type: Twitter
+    name: Twitter / X
+    url: https://twitter.com/MonellSc
+  - type: Facebook
+    name: Facebook
+    url: https://www.facebook.com/pages/Monell-Chemical-Senses-Center/117956561614817
+  - type: YouTube
+    name: YouTube
+    url: https://www.youtube.com/channel/UCPBHBQMSMx_Y-yIpwP1ZMug
+  - type: Contact
+    name: Contact
+    url: https://monell.org/contact-us/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
