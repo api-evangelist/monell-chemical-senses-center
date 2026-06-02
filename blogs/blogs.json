@@ -1,0 +1,14 @@
+{
+  "repo": "monell-chemical-senses-center",
+  "feeds": [
+    {
+      "source": "https://monell.org/publications/",
+      "feed_url": "https://monell.org/feed/",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-06-01T23:35:02Z"
+}
