@@ -29,6 +29,8 @@ modified: '2026-05-23'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/monell-chemical-senses-center-domain-security.yml
   - type: Website
     name: Monell Website
     url: https://monell.org/
