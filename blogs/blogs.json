@@ -6,16 +6,16 @@
       "feed_url": "https://monell.org/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "none"
     },
     {
       "source": "https://monell.org/publications/",
-      "feed_url": "https://monell.org/feed/",
+      "feed_url": "https://monell.org/publications/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "none"
     }
   ],
   "post_count": 11,
-  "fetched": "2026-07-11T11:50:51Z"
+  "fetched": "2026-08-01T15:49:00Z"
 }
