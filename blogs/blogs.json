@@ -2,22 +2,29 @@
   "repo": "monell-chemical-senses-center",
   "feeds": [
     {
-      "source": "https://monell.org/publications/",
-      "feed_url": "https://monell.org/publications/",
+      "source": "https://monell.org/blog/",
+      "feed_url": "https://monell.org/blog/",
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://monell.org/publications/",
+      "feed_url": "https://monell.org/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     },
     {
       "source": "https://monell.org/feed/",
       "feed_url": "https://monell.org/feed/",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "feed"
     }
   ],
-  "post_count": 11,
-  "fetched": "2026-10-03T12:30:02Z",
+  "post_count": 17,
+  "fetched": "2026-10-10T13:15:00Z",
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
   "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
