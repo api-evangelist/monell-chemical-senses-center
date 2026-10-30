@@ -64,47 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Monell Chemical Senses Center is "the world's only independent, non-profit scientific institute dedicated to interdisciplinary basic research on the senses of taste and smell." Founded in 1968 and headquartered at 3500 Market Street, Philadelphia, PA, Monell brings together sensory psychologists, biophysicists, chemists, behavioral neuroscientists, environmental scientists, and geneticists in a single interdisciplinary research environment.
+The Monell Chemical Senses Center is "the world's only independent, non-profit scientific institute dedicated to interdisciplinary basic research on the senses of taste and smell." Founded in 1968 and headquartered in Philadelphia, Monell conducts chemosensory research organized around three strategic themes: Healthy Senses and Happy Lives, Senses for a Thriving Planet, and Nourishing Our Future. The center runs postdoctoral training, the Dr. Charis Eng Monell Science Apprenticeship Program, the Monell Science Entrepreneurship Program, an Academic Partnership Program, and the Monell Insiders corporate partnership program. Monell does not publish a public developer API surface; its "product" is knowledge disseminated through scholarly publications and conferences.
 
-## Mission
+**Areas:** Chemosensory Science · Non-Profit · Nutrition · Olfaction · Research Institute · Smell · Taste
 
-> "The world's only independent research institute dedicated to the scientific understanding of taste and smell."
+## Monell Chemical Senses Center on APIs.io
 
-Monell's stated product is knowledge, disseminated through scholarly publications and conferences rather than software or APIs.
+Everything profiled for Monell Chemical Senses Center is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/monell-chemical-senses-center/](https://apis.io/providers/monell-chemical-senses-center/)** — or go straight to one of the APIs or properties below.
 
-## Strategic Research Themes
+### Published properties
 
-- **Healthy Senses and Happy Lives** — understanding how loss of smell or taste influences health and happiness, and how to help those who suffer chemosensory impairments.
-- **Senses for a Thriving Planet** — how animal odors signal disease and how environmental odors affect ecosystem health, with the goal of reducing pollution and disease.
-- **Nourishing Our Future** — sugar and salt reduction strategies, healthy dietary habit formation, and how genetics, health, and experience influence eating behaviors and metabolism.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Programs
+#### Security (1)
 
-- Postdoctoral Training Program
-- Dr. Charis Eng Monell Science Apprenticeship Program (high school and undergraduate paid research)
-- Monell Science Entrepreneurship Program
-- Academic Partnership Program
-- Monell Insiders (corporate partnerships)
+Authentication, trust centre, and vulnerability disclosure.
 
-## API & Developer Surface
+- [Monell Chemical Senses Center Domain Security](https://apis.io/security/monell-chemical-senses-center/monell-chemical-senses-center-domain-security/)
 
-Monell does **not** publish a public developer API, OpenAPI spec, SDK, or programmatic data feed. Scientific publications are listed on the Monell site and linked to PubMed; bulk access is available as a single 1969–2019 PDF compilation. The Monell GitHub organization (`github.com/Monell`) hosts a single internal R user group repository.
+## Where to find this API
 
-This `apis.yml` documents Monell as an `Index` entry capturing the institution's mission, research themes, and outreach surfaces (website, publications, blog, press releases, newsletter, social).
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Key Links
+- [Website](https://monell.org/)
+- [Blog](https://monell.org/blog/)
+- [GitHub](https://github.com/Monell)
 
-- Website: https://monell.org/
-- About: https://monell.org/about/
-- Research: https://monell.org/research/
-- Publications: https://monell.org/publications/
-- Blog: https://monell.org/blog/
-- Press Releases: https://monell.org/press-releases/
-- Newsletter: https://monell.org/get-updates/
-- GitHub: https://github.com/Monell
-- LinkedIn: https://www.linkedin.com/company/monell-chemical-senses-center/
-- Twitter / X: https://twitter.com/MonellSc
+## API Evangelist rating
 
-## Maintainer
+**Kin Score 5.5** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-Kin Lane — kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/monell-chemical-senses-center/](https://apis.io/providers/monell-chemical-senses-center/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Monell Chemical Senses Center: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/monell-chemical-senses-center/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
